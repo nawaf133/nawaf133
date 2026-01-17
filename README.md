@@ -47,7 +47,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nawaf133/nawaf133/output/snake.svg" alt="Snake animation" />
-
-###
