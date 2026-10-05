@@ -1,49 +1,58 @@
-<h2 align="left">Hi 👋! My name is Nawaf and I'm a dev from KSA</h2>
+<!-- بدّل USERNAME باسم حسابك في GitHub في كل مكان -->
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Nawaf&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20KSA%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=60&descSize=20" width="100%" alt="header" />
 
 <div align="center">
+
+<a href="https://github.com/USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nawaf;Full-Stack+Developer;Discord+Bots+%7C+Web+Apps;Building+cool+stuff+from+KSA+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=06B6D4&logo=github" alt="followers" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1382381493950742562/1462103415420092507/-_2026-01-16T011741.062.jpg?ex=696cf96a&is=696ba7ea&hm=6f2c4cb8355252b0216a208a4d83a31f6e20452c31e2030d4e617212a388d1ec&=&format=webp&width=919&height=926"  />
+### 🧰 Tech Stack
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs,discordjs,nodejs,git&perline=10" alt="skills" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/999_nff/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/nk99kk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="nawa@devnawaf.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="_i42" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+---
+
+### 🐍 Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+---
+
+### 📫 Find me
+
+<div align="center">
+  <a href="https://www.instagram.com/999_nff/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.twitch.tv/nk99kk"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="mailto:nawa@devnawaf.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-_i42-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
