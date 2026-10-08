@@ -76,7 +76,7 @@ const nawaf = {
   <a href="https://www.instagram.com/BPJ_/"><img src="https://img.shields.io/badge/Instagram-0EA5E9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.twitch.tv/nk99kk"><img src="https://img.shields.io/badge/Twitch-0284C7?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <a href="mailto:nawa@devnawaf.xyz"><img src="https://img.shields.io/badge/Email-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-_i42-38BDF8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/360205685230927873"><img src="https://img.shields.io/badge/Discord-_i42-38BDF8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 <br/>
