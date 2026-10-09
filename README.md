@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:0284C7,100:06B6D4&height=230&section=header&text=Nawaf%20Omar%20%3C%2F%3E&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Developer%20from%20KSA%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=62&descSize=22" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:0284C7,100:06B6D4&height=230&section=header&text=Nawaf%20Omar&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Developer%20from%20KSA%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=62&descSize=22" width="100%" alt="header" />
 
 <div align="center">
 
