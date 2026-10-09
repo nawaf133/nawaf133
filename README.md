@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:0284C7,100:06B6D4&height=230&section=header&text=Nawaf%20Ve&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Developer%20from%20KSA%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=62&descSize=22" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:0284C7,100:06B6D4&height=230&section=header&text=Nawaf%20Omar%20%3C%2F%3E&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Developer%20from%20KSA%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=62&descSize=22" width="100%" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/nawaf133">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Nawaf+Ve;Full-Stack+Developer;Discord+Bots+%7C+Web+Apps;Building+cool+stuff+from+KSA+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Nawaf+Omar;Full-Stack+Developer;Discord+Bots+%7C+Web+Apps;Based+in+Madinah%2C+KSA+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,9 @@
 
 ```js
 const nawaf = {
-  location: "KSA 🇸🇦",
+  name: "Nawaf Omar </>",
+  from: "Saudi Arabia 🇸🇦",
+  location: "Madinah Region, KSA 🇸🇦",
   role: "Full-Stack Developer",
   focus: ["Web Apps", "Discord Bots", "Clean UI"],
   streamsOn: "Twitch",
